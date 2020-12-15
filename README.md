@@ -86,7 +86,3 @@ Institution | Degree | Graduated
 [windows]: https://img.shields.io/badge/Windows-00599C?style=for-the-badge&logo=windows&logoColor=white
 [macOS]: https://img.shields.io/badge/Mac%20OS-00599C?style=for-the-badge&logo=apple&logoColor=white
 [vxWorks]: https://img.shields.io/badge/vxWorks-00599C?style=for-the-badge
-
-<!-- Links for Education -->
-[nyu]: https://www.nyu.edu/employees/resources-and-services/media-and-communications/styleguide/downloads/jcr:content/1/par-left/colctrl/2/nyuimage.img.1280.high.png/1492806662756.png
-[ucf]: https://www.ucf.edu/brand/files/2016/07/UCF-tab-NoBleed_vert-KG-7406.png
