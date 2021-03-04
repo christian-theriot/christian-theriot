@@ -5,13 +5,6 @@
    ![image][mongoDB] ![image][express] ![image][react] ![image][node] ![image][ts] ![image][rr] ![image][bs] ![image][gh-pages] ![image][heroku]
   
 &nbsp;
-  
-- ## Generic Parser for Programming Languages
-  To learn how parsers work, and how complex languages manage their complexity while supporting fully-featured environments. 
-  ### Technologies Involved:
-  ![image][cpp] ![image][cmake]
-  
-&nbsp;
 
 # Skills
 technology | experience
@@ -27,15 +20,15 @@ technology | experience
 ![image][css] | 4 years
 ![image][js] | 4 years
 ![image][unity] | 4 years
-![image][mongoDB] | 4 months
-![image][express] | 4 months
-![image][react] | 4 months
-![image][node] | 4 months
-![image][ts] | 4 months
-![image][bs] | 4 months
-![image][rr] | 4 months
-![image][heroku] | 4 months
-![image][gh-pages] | 4 months
+![image][mongoDB] | 6 months
+![image][express] | 6 months
+![image][react] | 6 months
+![image][node] | 6 months
+![image][ts] | 6 months
+![image][bs] | 6 months
+![image][rr] | 6 months
+![image][heroku] | 6 months
+![image][gh-pages] | 6 months
 
 &nbsp;
 
